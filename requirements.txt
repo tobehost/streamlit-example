@@ -1,3 +1,4 @@
 altair
 pandas
 streamlit
+st-supabase-connection==1.0.4
